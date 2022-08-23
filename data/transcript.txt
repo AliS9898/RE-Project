@@ -1,0 +1,121 @@
+Login for the first time - I’d be moderately satisfied with that experience. It just felt a little rocky I think if you’re trying to get in quickly and you know you want to see something and be forced to change the password right away. Sometimes you mind to change your password a little bit later
+
+Sharing teaching material - And then the only thing I am seeing is baby cues like I’m only seeing the powerpoint that I’m sharing so I’m not really able to visually see what parent’s reactions are or if she’s present with me right now and I knew in an ideal world my screen could be split so that I know if she’s attending or picking up her own baby. I would say I’m moderately satisfied because we couldn’t be able to see parent and document at the same time
+
+Opening an intervention form and filling it out - The nurse couldn’t find out where to open a new form. Although she noticed that it should be under charting but she couldn’t figure out she have to click on the drop down. It’s not clear to her and she would rather to see a label that says forms or something like that
+
+Finding and opening a recorded video
+I’m not sure
+So I’ll give you a little bit of that so the question is to go back and look at where you might have. Hmm storage area in you three tabs on the right top
+So charting, oh video logs. Right I lost
+You need to make sure that you are opening the video that is recorded by you. I think you did the 11:04 one.
+Okay so just for me I think I’d want the most recent one on the top. I wonder if it was auto sort to the most recent one on top and then it and I'm assuming play would just be for myself and I'm assuming share would just be for us to share it with parent.
+At last, I would say I’m moderately satisfied with the user experience of this feature. Because it took me a while to find the proper tab
+
+Showing the recorded video to the parent - I shared the video with the parent. I'm a bit lost right now because I'm thinking, am I in my window or am I navigating this window or am I navigating over here because it's this is just picking up the video so I'm thinking not but I'm thinking it's somewhere here in here.
+
+Scheduling the next visit in coordination with the parent -
+Nurse1. I’d like to see you again Laura (name of the parent) maybe in the next couple weeks. Does that work for you?
+
+Parent. Yes, it does
+
+Nurse1. Okay sounds good.  So let me take a look at my calendar here. When works for you?
+
+Nurse 2. So in order to book the next visit in coordination with the parent you have to stay on the page with tha parent
+
+Nurse1.  Oh okay
+
+Nurse2. So the minute that you jumped off the light blue portion of the vidkids and you go to that darker column to the left it will shut your call down if you’re online.
+
+Nurse 1. Oh okay
+
+In conclusion, the nurse accidentally left the call by clicking the calendar icon on the left of the screen. The icon calendar button should be disabled during the call or a prompt should be shown to the nurses that warns them: you are about to leave the call.
+
+
+Find the parent and assigning the study case to yourself:
+
+Find the parent with the following babyname and take on the studycase to yourself
+Hmm the baby’s name is Laura?
+I see one baby. Oh I can scroll down.
+Here okay
+And then I can go edit it? Is that how I added myself in it or
+Oh good
+Where did Laura go?
+Okay there it is. It’s good.
+This task was easy although I lost the parent after assigning her to myself because it went on top of the table. I wish it could be stayed at that row
+
+Sharing the teaching material and sharing the screen:
+Can I just go back. What would have made it easier for the sharing of the screen
+I couldn't find the button forever and I was looking around like where is this thing. I think the little window here is very small and you have to like go back and forth up and down to like find it.
+
+Filling an intervention form
+Open a new intervantion form, fill it out and save the form
+Okay so I’m assuming charting. Intervention
+You want to fill out a new one
+Is this an old one?
+You can see the date
+Yeah, because somebody else did it already
+Okay so I’m gonna go back. Oh wait. Unsaved changes will be lost. I didn’t change anything at all.
+You didn’t change anything. This prompt will be shown after going back
+This message would have been shown only if I change anything. That’s confusing
+Okay I found the intervention form
+Please go ahead and just gonna go through. You don’t have to fill out every portion of it it’s just to familiarize yourself of that
+Hmm this is very nice for like everything that I've done for the kids has been like the end cast on paper.
+I’m just wondering is it expandable because the box is small and hard to fill out. I have to scroll down a lot to fill each field
+Yes, you can expand the form by pressing on that Icon. can you see it?
+Where is it?
+There’s a small icon the left
+Where? Oh there you go.
+Nice. this is nice. The icon should have been larger. It’s hard to find out where to click for expanding the form
+
+Opening a noteform and writing it for the coder:
+Okay I opened a new note form and I’m writing the message for the coder. I selected share with the coder. Cool. saved it
+I had one the other day with baby was actually very little so I stopped the visit
+That wasn’t a good time for you
+Okay wait. I saved it. Do I just get out?
+You actually saved it three times now
+Okay. and then how do I know if it’s saved tho? Or I just save it and then when people look through they see it. I though that like if I save it it would like be like ta-da the end and the form was saved
+Did you see the green box come up on the bottom of the screen?
+I did but I was expecting something else. So when I’m done I can just exit it
+Scroll down and you’ll see I think your three notes
+Oops so if I save it like three times it would be like boom boom boom
+Yeah
+But that doesn’t make sense. I’ve wanted to save just one form but it changed now three duplicated forms saved. This should be change. The form should have been saved just one time
+
+
+
+______________________________________
+After inserting the username and password the parent was redirected to another page to set a new password. 'Server Error' has been shown after clicking on save button.
+I was trying to play the video for the Mom to see. I exited, refreshed, reloaded, and tried to replay, however it would not play past 1-2 min. I tried to pull the video forward manually but it would not play
+The format of the confirmation email after scheduling a meeting should be changed
+Okay, please send me the new content and then we change the format of the email
+I was trying to fill out an intervention form, I clicked on the save button and exited. I noticed that the form had not been saved properly so I had to fill it one more time
+Did you see the green message that says saved successfully?
+I’m not sure
+Also, there are two save buttons in the form. One is at the top, and the other is at the bottom of the form. We would like the save button at the bottom to be omitted.
+We noticed that the baby’s age is not right based on the inserted date of birth
+Looks like, The function that was in charge of calculating the date of birth was calculating it wrongly
+The intervention and social time on the intervention sheet is still not retaining the time I put in
+We want to change the id of VK-506 to VK-503
+What kind of information can be changed in the profile page?
+You can change your name, your profile picture, and your password
+Can I change my email address?
+No, you can’t
+I would like to be able to change that as well
+Who can upload new documents and resources to the system?
+Only the admin can do that.
+I was wondering if it is possible to give this permission to the nurses as well
+You mean you want the nurses to be able to upload resources?
+Yes exactly.
+Also, can the Admin upload resources for a specific visit? Like just for the visit 2
+No the can’t do that at the moment
+I would like to give this permission to both Admin and Nurse roles too
+Okay sure
+
+
+
+
+
+
+
+
