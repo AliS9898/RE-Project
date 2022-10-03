@@ -62,6 +62,6 @@ with file:
         pair['type'] = 3
         writer.writerow({'Sentence1': selectedSentences[i],
                          'Sentence2': selectedSentences[j],
-                         'Similarity Point': pair['score'].item(),
+                         'Similarity Point': (pair['score'].item() - 1)/2,
                          'Similarity Type': pair['type']
                          })
